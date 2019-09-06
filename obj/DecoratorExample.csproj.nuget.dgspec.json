@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Development\\DecoratorExample\\DecoratorExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Development\\DecoratorExample\\DecoratorExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\DecoratorExample\\DecoratorExample.csproj",
+        "projectName": "DecoratorExample",
+        "projectPath": "C:\\Development\\DecoratorExample\\DecoratorExample.csproj",
+        "packagesPath": "C:\\Users\\brian.cox\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\DecoratorExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brian.cox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\tql.com\\Departments\\IT\\TQL_Nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tqlweb.pkgs.visualstudio.com/_packaging/TQL/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

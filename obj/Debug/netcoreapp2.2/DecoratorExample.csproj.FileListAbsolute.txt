@@ -1,0 +1,11 @@
+C:\Development\DecoratorExample\bin\Debug\netcoreapp2.2\DecoratorExample.deps.json
+C:\Development\DecoratorExample\bin\Debug\netcoreapp2.2\DecoratorExample.runtimeconfig.json
+C:\Development\DecoratorExample\bin\Debug\netcoreapp2.2\DecoratorExample.runtimeconfig.dev.json
+C:\Development\DecoratorExample\bin\Debug\netcoreapp2.2\DecoratorExample.dll
+C:\Development\DecoratorExample\bin\Debug\netcoreapp2.2\DecoratorExample.pdb
+C:\Development\DecoratorExample\obj\Debug\netcoreapp2.2\DecoratorExample.csprojAssemblyReference.cache
+C:\Development\DecoratorExample\obj\Debug\netcoreapp2.2\DecoratorExample.csproj.CoreCompileInputs.cache
+C:\Development\DecoratorExample\obj\Debug\netcoreapp2.2\DecoratorExample.AssemblyInfoInputs.cache
+C:\Development\DecoratorExample\obj\Debug\netcoreapp2.2\DecoratorExample.AssemblyInfo.cs
+C:\Development\DecoratorExample\obj\Debug\netcoreapp2.2\DecoratorExample.dll
+C:\Development\DecoratorExample\obj\Debug\netcoreapp2.2\DecoratorExample.pdb
