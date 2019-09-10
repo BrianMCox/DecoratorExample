@@ -9,7 +9,7 @@ namespace DecoratorExample
     //internal class BigLebowskiService : IBowlingService
     #endregion
 
-    internal class BigLebowskiService : IBigLebowskiService, IBowlingService
+    internal class BigLebowskiService : IBigLebowskiService
     {
         public bool DoWeRoll(DayOfWeek dayOfWeek)
         {
